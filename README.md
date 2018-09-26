@@ -14,4 +14,4 @@ Widgets Available
 6. Bluetooth
 7. GPS
 
-Google Play Store: https://play.google.com/store/apps/details?id=com.studiosun.simplepowerwidgets
+Google Play Store: No longer avaiable
