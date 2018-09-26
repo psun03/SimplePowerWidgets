@@ -14,4 +14,4 @@ Widgets Available
 6. Bluetooth
 7. GPS
 
-Google Play Store: No longer avaiable
+Google Play Store: No longer available
