@@ -15,3 +15,6 @@ Widgets Available
 7. GPS
 
 Google Play Store: No longer available
+
+## Source Code
+Android Source code: [link](http://studiosunmedia.com/source_code/SimplePowerWidgets.zip)
